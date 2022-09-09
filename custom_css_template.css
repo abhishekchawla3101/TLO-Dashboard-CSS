@@ -52,7 +52,9 @@
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;
   border-spacing: 3px;
-  column-rule-color: #ff0000;
+  column-rule-color: #000000;
+  color: white;
+  text-align: center;
 }
 
 table.reportTable th {
