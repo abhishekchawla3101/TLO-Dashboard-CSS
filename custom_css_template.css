@@ -67,6 +67,7 @@ table.reportTable td {
 .headerCell {
   border-bottom: 1px solid #000000 !important;
   background-color: #084c94;
+  font-color: #ffffff !important;
   font-weight: bold;
   padding: 5px;
 }
@@ -85,11 +86,11 @@ table.reportTable td {
 }
 
 .nonNumeric {
-  text-align: center;
+  text-align: center !important;
 }
 
 .numeric {
-  text-align: center;
+  text-align: center !important;
 }
 
 .negative {
