@@ -14,6 +14,7 @@
     padding: 5px;
     background-color: white;
     font-color: white;
+    column-rule-color: #ff0000;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
@@ -29,6 +30,7 @@
 .tooltipTable {
   font-family: Open Sans,Helvetica,Arial,sans-serif;
   border: 0px;
+  column-rule-color: #ff0000;
   border-collapse: collapse;
   table-layout: auto;
 }
@@ -50,11 +52,13 @@
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;
   border-spacing: 3px;
+  column-rule-color: #ff0000;
 }
 
 table.reportTable th {
   border: 1px solid #CCCCCC; 
   border-bottom: 1px solid #000000 !important;
+  column-rule-color: #ff0000;
   padding: 5px;
 }
 
@@ -62,6 +66,7 @@ table.reportTable td {
   vertical-align: super;
   padding: 5px;
   border: 1px solid #CCCCCC; 
+  column-rule-color: #ff0000;
   border-collapse: collapse;
 }
 
@@ -70,6 +75,7 @@ table.reportTable td {
   background-color: #084c94;
   color: #ffffff !important;
   font-weight: bold;
+  column-rule-color: #ff0000;
   padding: 5px;
 }
 
