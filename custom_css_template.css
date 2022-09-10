@@ -71,11 +71,11 @@ table.reportTable td {
   vertical-align:baseline;
 }
 
-table.reportTable tr:nth-child(2) {
+table.reportTable tr:nth-child(7) {
   background-color: #084c94;
-  color: #ffffff !important;
+  color: white;
   font-weight: bold;
-  text-align: center !important;
+  text-align: center;
 }
 
 .headerCell {
