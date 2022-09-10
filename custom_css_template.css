@@ -52,9 +52,12 @@
 }
 
 table.reportTable th {
-  padding: 0.5px;
+  border: 1px solid #CCCCCC;
+  padding: 5px;
   color: white;
-  background-color: white;
+  text-align: center !important;
+  vertical-align:baseline;
+  background-color: #084c94;
 }
 
 table.reportTable td {
@@ -68,12 +71,21 @@ table.reportTable td {
   vertical-align:baseline;
 }
 
-.headerCell {
-  background-color: white;
+table.reportTable tr:nth-child(2) {
+  background-color: #084c94;
   color: #ffffff !important;
+  font-weight: bold;
+  text-align: center !important;
+}
+
+.headerCell {
+  border-bottom: 1px solid #CCCCCC !important;
+  background-color: #084c94;
+  color: #ffffff !important;
+  font-weight: bold;
   text-align: center !important;
   column-rule-color: #ff0000;
-  padding: 0px;
+  padding: 5px;
 }
 
 .indexCell.transposed {
