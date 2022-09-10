@@ -71,13 +71,6 @@ table.reportTable td {
   vertical-align:baseline;
 }
 
-table.reportTable tr:nth-child(2) {
-  background-color: #084c94;
-  color: #ffffff !important;
-  font-weight: bold;
-  text-align: center !important;
-}
-
 .headerCell {
   border-bottom: 1px solid #CCCCCC !important;
   background-color: #084c94;
