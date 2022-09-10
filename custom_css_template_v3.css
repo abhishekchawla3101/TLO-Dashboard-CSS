@@ -54,16 +54,14 @@
 table.reportTable th {
   border: 1px solid #CCCCCC;
   padding: 5px;
-  column-rule-color: #ffffff !important;
   color: white;
   text-align: center !important;
   vertical-align:baseline;
   background-color: #084c94;
-
 }
 
 table.reportTable td {
-  vertical-align: super;
+  vertical-align: baseline;
   padding: 5px;
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;
@@ -74,7 +72,7 @@ table.reportTable td {
 }
 
 .headerCell {
-  border-bottom: 1px solid #000000 !important;
+  border-bottom: 1px solid #CCCCCC !important;
   background-color: #084c94;
   color: #ffffff !important;
   font-weight: bold;
