@@ -72,10 +72,10 @@ table.reportTable td {
 }
 
 table.reportTable tr:nth-child(7) {
-  background-color: #084c94;
+  background-color: #68BBE3;
   color: white !important;
   font-weight: bold;
-  text-align: center;
+  text-align: center !important;
 }
 
 .headerCell {
