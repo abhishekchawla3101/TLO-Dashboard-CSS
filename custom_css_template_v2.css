@@ -52,12 +52,11 @@
 }
 
 table.reportTable th {
-  border: 1px solid #CCCCCC; 
-  border-bottom: 1px solid #000000 !important;
+  border: 1px solid #CCCCCC;
   padding: 5px;
-  column-rule-color: #ffffff;
+  column-rule-color: #ffffff !important;
   color: white;
-  text-align: center;
+  text-align: center !important;
   vertical-align:baseline;
   background-color: #084c94;
 
@@ -68,7 +67,7 @@ table.reportTable td {
   padding: 5px;
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;
-  column-rule-color: #ffffff;
+  column-rule-color: #ffffff !important;
   color: black;
   text-align: center;
   vertical-align:baseline;
@@ -79,6 +78,7 @@ table.reportTable td {
   background-color: #084c94;
   color: #ffffff !important;
   font-weight: bold;
+  text-align: center !important;
   column-rule-color: #ff0000;
   padding: 5px;
 }
