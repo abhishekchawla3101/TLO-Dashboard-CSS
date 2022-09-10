@@ -52,11 +52,8 @@
 }
 
 table.reportTable th {
-  border: 1px solid #CCCCCC;
   padding: 0.5px;
   color: white;
-  text-align: center !important;
-  vertical-align:baseline;
   background-color: white;
 }
 
@@ -72,13 +69,11 @@ table.reportTable td {
 }
 
 .headerCell {
-  border-bottom: 1px solid #CCCCCC !important;
   background-color: white;
   color: #ffffff !important;
-  font-weight: bold;
   text-align: center !important;
   column-rule-color: #ff0000;
-  padding: 0.5px;
+  padding: 0px;
 }
 
 .indexCell.transposed {
