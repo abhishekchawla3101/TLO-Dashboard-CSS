@@ -48,7 +48,7 @@
   font-family: Open Sans,Helvetica,Arial,Noto Sans SC,Noto Sans TC,sans-serif;
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;
-  border-spacing: 1px;
+  border-spacing: 3px;
 }
 
 table.reportTable th {
@@ -59,7 +59,7 @@ table.reportTable th {
 
 table.reportTable td {
   vertical-align: baseline;
-  padding: 1px;
+  padding: 5px;
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;
   column-rule-color: #ffffff !important;
