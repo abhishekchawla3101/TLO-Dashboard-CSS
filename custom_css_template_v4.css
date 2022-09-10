@@ -71,7 +71,7 @@ table.reportTable td {
   vertical-align:baseline;
 }
 
-table tr:nth-child(2) td{
+table.reportTable tr:nth-child(2) {
   background-color: #084c94;
   color: #ffffff !important;
   font-weight: bold;
