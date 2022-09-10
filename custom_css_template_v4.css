@@ -114,6 +114,13 @@ table.reportTable td {
   padding-left: 15px !important;
 }
 
+.nth-table tr:nth-child(7){
+  background-color: #084c94;
+  color: #ffffff !important;
+  font-weight: bold;
+  text-align: center !important;
+}
+
 .subtotal {
   font-style: italic;
   font-weight: bold;
