@@ -52,27 +52,33 @@
 }
 
 table.reportTable th {
-  border: 1px solid #CCCCCC; 
-  border-bottom: 1px solid #000000 !important;
-  padding: 5px;
-  column-rule-color: #ffffff;
-
+  border: 1px solid #CCCCCC;
+  padding: 0.5px;
+  color: white;
+  text-align: center !important;
+  vertical-align:baseline;
+  background-color: white;
 }
 
 table.reportTable td {
-  vertical-align: super;
+  vertical-align: baseline;
   padding: 5px;
   border: 1px solid #CCCCCC; 
   border-collapse: collapse;
-
+  column-rule-color: #ffffff !important;
+  color: black;
+  text-align: center;
+  vertical-align:baseline;
 }
 
 .headerCell {
-  border-bottom: 1px solid #000000 !important;
+  border-bottom: 1px solid #CCCCCC !important;
+  background-color: white;
   color: #ffffff !important;
   font-weight: bold;
+  text-align: center !important;
   column-rule-color: #ff0000;
-  padding: 5px;
+  padding: 0.5px;
 }
 
 .indexCell.transposed {
