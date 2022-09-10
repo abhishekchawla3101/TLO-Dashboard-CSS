@@ -71,10 +71,9 @@ table.reportTable td {
   vertical-align:baseline;
 }
 
-table.reportTable tr:nth-child(7) {
-  background-color: #78b9e7;
+table.reportTable tr:nth-child(7){
   color: white !important;
-  font-weight: bold;
+  background-color: #084c94;
   text-align: center !important;
 }
 
@@ -128,7 +127,7 @@ table.reportTable tr:nth-child(7) {
 }
 
 .total {
-  border-top: 2px solid #000000 !important;
+  border-top: 2px solid white !important;
   font-weight: bold !important;
 }
 
