@@ -53,6 +53,7 @@
 
 table.reportTable th {
   border: 1px solid #CCCCCC;
+  position: sticky;
   padding: 5px;
   color: white;
   text-align: center !important;
