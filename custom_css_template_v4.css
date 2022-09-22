@@ -74,7 +74,6 @@ table.reportTable td {
 
 .headerCell {
   border-bottom: 1px solid #CCCCCC !important;
-  position: fixed !important;
   background-color: #084c94;
   color: #ffffff !important;
   font-weight: bold;
