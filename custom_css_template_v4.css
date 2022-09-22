@@ -63,10 +63,8 @@ table.reportTable th {
 }
 
 table.reportTable thead {
-  border: 1px solid #CCCCCC;
   position: sticky !important;
   top: 0;
-  padding: 5px;
   color: white;
   text-align: center !important;
   vertical-align:baseline;
