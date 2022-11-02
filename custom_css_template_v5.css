@@ -52,9 +52,13 @@
 }
 
 table.reportTable th {
-  padding: 0.5px;
+  border: 1px solid #CCCCCC;
+  position: sticky;
+  padding: 5px;
   color: white;
-  background-color: white;
+  text-align: center !important;
+  vertical-align:baseline;
+  background-color: #084c94;
 }
 
 table.reportTable td {
@@ -68,6 +72,13 @@ table.reportTable td {
   vertical-align:baseline;
 }
 
+table.reportTable tr:nth-child(7) td{
+  color: white !important;
+  background-color: #084c94;
+  text-align: center !important;
+  font-weight: bold;
+}
+
 table.reportTable tr:last-child td{
   color: white !important;
   background-color: #084c94;
@@ -76,11 +87,13 @@ table.reportTable tr:last-child td{
 }
 
 .headerCell {
-  background-color: white;
+  border-bottom: 1px solid #CCCCCC !important;
+  background-color: #084c94;
   color: #ffffff !important;
+  font-weight: bold;
   text-align: center !important;
   column-rule-color: #ff0000;
-  padding: 0px;
+  padding: 5px;
 }
 
 .indexCell.transposed {
@@ -119,16 +132,6 @@ table.reportTable tr:last-child td{
 .subtotal {
   font-style: italic;
   font-weight: bold;
-  background: #D3D3D3;
-}
-
-.total {
-  border-top: 2px solid #000000 !important;
-  font-weight: bold !important;
-}
-
-.total.transposed {
-  border-top: 0px !important;
   background: #D3D3D3;
 }
 
