@@ -68,7 +68,7 @@ table.reportTable td {
   vertical-align:baseline;
 }
 
-table.reportTable tr:nth-child(7) td{
+table.reportTable tr:last-child td{
   color: white !important;
   background-color: #084c94;
   text-align: center !important;
