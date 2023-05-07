@@ -75,19 +75,14 @@ table.reportTable td {
 table.reportTable tr:nth-last-child(4) td{
   background-color: #DBE5EF;
   text-align: center !important;
-  font-weight: bold;
 }
 
 table.reportTable tr:nth-last-child(3) td{
   background-color: #DBE5EF;
-  text-align: center !important;
-  font-weight: bold;
 }
 
 table.reportTable tr:nth-last-child(2) td{
   background-color: #DBB2B6;
-  text-align: center !important;
-  font-weight: bold;
 }
 
 table.reportTable tr:last-child td{
