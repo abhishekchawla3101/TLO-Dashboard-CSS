@@ -73,10 +73,7 @@ table.reportTable td {
 }
 
 table.reportTable tr:nth-child(1) td{
-  color: white !important;
-  background-color: #084c94;
   text-align: center !important;
-  font-weight: bold;
   font-size: 13px !important;
 }
 
