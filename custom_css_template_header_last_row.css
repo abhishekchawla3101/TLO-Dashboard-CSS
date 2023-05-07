@@ -79,13 +79,6 @@ table.reportTable tr:last-child td{
   font-weight: bold;
 }
 
-table.reportTable tr:nth-last-child(2) td{
-  color: white !important;
-  background-color: #084c94;
-  text-align: center !important;
-  font-weight: bold;
-}
-
 
 .headerCell {
   border-bottom: 1px solid #CCCCCC !important;
