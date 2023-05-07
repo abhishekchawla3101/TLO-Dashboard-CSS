@@ -73,24 +73,21 @@ table.reportTable td {
 }
 
 table.reportTable tr:nth-child(1) td{
-  background-color: #99C2EE;
+  background-color: #DBE5EF;
   text-align: center !important;
   font-weight: bold;
-  font-size: 13px !important;
 }
 
 table.reportTable tr:nth-child(2) td{
-  background-color: #99C2EE;
+  background-color: #DBE5EF;
   text-align: center !important;
   font-weight: bold;
-  font-size: 13px !important;
 }
 
 table.reportTable tr:nth-child(5) td{
-  background-color: #99C2EE;
+  background-color: #DBE5EF;
   text-align: center !important;
   font-weight: bold;
-  font-size: 13px !important;
 }
 
 .headerCell {
