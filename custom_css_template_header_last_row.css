@@ -72,6 +72,11 @@ table.reportTable td {
   vertical-align:baseline;
 }
 
+table.reportTable tr:last-child td(4){
+  background-color: #DBE5EF;
+  text-align: center !important;
+}
+
 table.reportTable tr:last-child td{
   color: white !important;
   background-color: #084c94;
