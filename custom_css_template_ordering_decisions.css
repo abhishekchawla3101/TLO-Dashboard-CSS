@@ -68,8 +68,8 @@ table.reportTable td {
   border-collapse: collapse;
   column-rule-color: #ffffff !important;
   color: black;
-  text-align: left;
-  text-indent: 15px;
+  text-align: left !important;
+  text-indent: 15px !important;
   vertical-align:baseline;
 }
 
