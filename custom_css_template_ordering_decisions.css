@@ -68,29 +68,32 @@ table.reportTable td {
   border-collapse: collapse;
   column-rule-color: #ffffff !important;
   color: black;
-  text-align: left !important;
-  text-indent: 15px !important;
+  text-align: center !important;
   vertical-align:baseline;
 }
 
 table.reportTable tr:nth-child(1) td{
-  color: black;
-  text-align: left !important;
+  color: white !important;
+  background-color: #084c94;
+  text-align: center !important;
   font-weight: bold;
+  font-size: 13px !important;
 }
 
 table.reportTable tr:nth-child(2) td{
   color: white !important;
   background-color: #084c94;
-  text-align: left !important;
+  text-align: center !important;
   font-weight: bold;
+  font-size: 13px !important;
 }
 
 table.reportTable tr:nth-child(5) td{
   color: white !important;
   background-color: #084c94;
-  text-align: left !important;
+  text-align: center !important;
   font-weight: bold;
+  font-size: 13px !important;
 }
 
 .headerCell {
