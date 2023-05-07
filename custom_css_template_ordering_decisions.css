@@ -73,14 +73,13 @@ table.reportTable td {
 }
 
 table.reportTable tr:nth-child(1) td{
-  color: white !important;
   background-color: #78b9e7;
   text-align: center !important;
+  font-weight: bold;
   font-size: 13px !important;
 }
 
 table.reportTable tr:nth-child(2) td{
-  color: white !important;
   background-color: #78b9e7;
   text-align: center !important;
   font-weight: bold;
@@ -88,7 +87,6 @@ table.reportTable tr:nth-child(2) td{
 }
 
 table.reportTable tr:nth-child(5) td{
-  color: white !important;
   background-color: #78b9e7;
   text-align: center !important;
   font-weight: bold;
